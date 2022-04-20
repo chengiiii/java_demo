@@ -1,4 +1,4 @@
-package cn.tenss;
+package cn.tenss.ioc;
 
 import java.util.Arrays;
 import java.util.HashSet;
@@ -10,9 +10,6 @@ import java.util.stream.Stream;
 
 import cn.tenss.domain.Hero;
 import cn.tenss.domain.League;
-import cn.tenss.ioc.ClasspathClassReader;
-import cn.tenss.ioc.Ioc;
-import cn.tenss.ioc.SimpIoc;
 import cn.tenss.ioc.annotation.Bean;
 
 public class IocTest {

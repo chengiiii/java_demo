@@ -7,8 +7,6 @@ import java.util.Enumeration;
 import java.util.HashSet;
 import java.util.Set;
 
-import cn.tenss.IocTest;
-
 public class ClasspathClassReader implements ClassReader {
 
   @Override

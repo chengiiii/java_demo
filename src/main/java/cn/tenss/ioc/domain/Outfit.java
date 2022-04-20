@@ -1,4 +1,4 @@
-package cn.tenss.domain;
+package cn.tenss.ioc.domain;
 
 import cn.tenss.ioc.annotation.Bean;
 

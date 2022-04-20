@@ -8,9 +8,9 @@ import java.util.Set;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-import cn.tenss.domain.Hero;
-import cn.tenss.domain.League;
 import cn.tenss.ioc.annotation.Bean;
+import cn.tenss.ioc.domain.Hero;
+import cn.tenss.ioc.domain.League;
 
 public class IocTest {
   private static Ioc ioc = new SimpIoc();
